@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sepbatch" duration-ms="62" started-at="2015-09-19T05:42:51Z" finished-at="2015-09-19T05:42:51Z">
+    <groups>
+      <group name="SmokeTest">
+        <method signature="EMI2.display()[pri:0, instance:Day5.EMI2@1cd072a9]" name="display" class="Day5.EMI2"/>
+      </group> <!-- SmokeTest -->
+    </groups>
+    <test name="RegSet1" duration-ms="62" started-at="2015-09-19T05:42:51Z" finished-at="2015-09-19T05:42:51Z">
+      <class name="Day5.EMI2">
+        <test-method status="PASS" signature="display()[pri:0, instance:Day5.EMI2@1cd072a9]" name="display" duration-ms="15" started-at="2015-09-19T11:12:51Z" finished-at="2015-09-19T11:12:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+      </class> <!-- Day5.EMI2 -->
+    </test> <!-- RegSet1 -->
+  </suite> <!-- Sepbatch -->
+</testng-results>
