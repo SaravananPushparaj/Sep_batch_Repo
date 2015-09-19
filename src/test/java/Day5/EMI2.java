@@ -9,6 +9,8 @@ public class EMI2 {
 	{
 		
 		System.out.println("Hello World");
+		System.out.println("Welcome");
+		System.out.println("Hi");
 		
 		
 		
